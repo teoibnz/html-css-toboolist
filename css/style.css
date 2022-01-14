@@ -76,6 +76,7 @@ main{
 
 .container{
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 #task{
     color: white;
@@ -108,10 +109,10 @@ main{
 }
 
 #cat-lightgreen{
-    
+    background-color: rgb(101, 233, 101)
 }
 
 #cat-pink{
-
+    background-color: ;
 }
     
