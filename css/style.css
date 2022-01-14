@@ -49,6 +49,14 @@ main{
     display: inline-block;
 }
 
+.spunta-rossa{
+    background-image: url(../img/spunta\ croce\ rossa.jpg);
+    height: 30px;
+    width: 30px;
+    background-size: cover;
+    display: inline-block;
+}
+
 .testo-task{
     display: inline-block;
     vertical-align: super;
@@ -88,15 +96,15 @@ main{
 }
 
 #cat-viola{
-    
+    background-color: rgb(151, 79, 151);
 }
 
 #cat-orange{
-    
+    background-color: orange;
 }
 
 #cat-green{
-    
+    background-color: rgb(31, 141, 68);
 }
 
 #cat-lightgreen{
