@@ -34,7 +34,7 @@ main{
 }
 
 .lista-main{
-    margin-top: 30px;
+    
 }
 
 .new-task{
@@ -76,7 +76,7 @@ main{
 
 .container{
     margin-bottom: 15px;
-    margin-top: 15px;
+    margin-top: 30px;
 }
 #task{
     color: white;
@@ -113,6 +113,6 @@ main{
 }
 
 #cat-pink{
-    background-color: ;
+    background-color:lightpink ;
 }
     
